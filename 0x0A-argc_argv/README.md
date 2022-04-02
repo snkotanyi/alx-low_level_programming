@@ -1,1 +1,1 @@
-Arguments of main
+C-argc, argv
